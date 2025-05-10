@@ -1,2 +1,2 @@
 # MyGWebsite
-A gaming website planned for long trem
+A gaming website planned for long term
