@@ -1,8 +1,8 @@
 <?php
 session_start();
 require 'config.php';
-// hello
-// Get filter parameters
+
+// Getting filter parameters
 $platform = $_GET['platform'] ?? '';
 $genre = $_GET['genre'] ?? '';
 $sort = $_GET['sort'] ?? 'newest';
