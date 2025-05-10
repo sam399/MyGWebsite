@@ -1,7 +1,7 @@
 <?php
 session_start();
 require 'config.php';
-
+// hello
 // Get filter parameters
 $platform = $_GET['platform'] ?? '';
 $genre = $_GET['genre'] ?? '';
